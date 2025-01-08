@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+// CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -30,4 +30,4 @@ root.render(
     <RouterProvider router={router} />
   </React.StrictMode>
 );
-// CRIO_SOLUTION_END_MODULE_ONE
+// CRIO_SOLUTION_AND_STUB_ONLY_END_MODULE_ONE
