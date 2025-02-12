@@ -1,7 +1,7 @@
 #!/bin/bash
 ######################################## EDITABLE ###############################################
 # ME details
-ME_ID="FE_XBOTAI"
+ME_ID="FE_XBOTAI_V2"
 
 # gitlab details
 GITLAB_UPLOAD_DESTINATION="GITLAB_CRIO_DO"
@@ -52,7 +52,7 @@ commands=(
     "SOLUTION_GENERATOR"
     "INTERMEDIATE_STUBS_GENERATOR" 
     "FINAL_STUBS_GENERATOR"
-    "GITLAB_UPLOAD"
+    #"GITLAB_UPLOAD"
 )
 
 ######################################## COMMANDS ###############################################
